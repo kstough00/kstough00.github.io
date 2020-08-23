@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Avatar the Last Airbender CLI Project"
-date:       2020-08-22 18:17:47 +0000
+date:       2020-08-22 14:17:47 -0400
 permalink:  my_avatar_the_last_airbender_cli_project
 ---
 
@@ -12,4 +12,4 @@ I would say the most challenging part of this project was getting all of my fold
 
 The least challenging part of my project, which came as a surprise to me, was writing the actual methods needed to give my classes the functionality they needed to run my program. I was not expecting this because of how 'new' I am to coding and with only being 4 weeks through the course. Once I realized that I actually do know what I am doing, I began to look at my code in a different way, less resentful and more so 'on the attack'. I began to look at the errors in my code as a new challenge to tackle instead of getting frustrated that it did now work how I wrote it the first time.
 
-I really would like to thank my cohort leads and classmates for alwasy being willing and available to help me out when I hit a snag. I wouldn't have been able to comlete my project without them and am so thankful for the support community that Flatiron is able to provide to its students. 
+I really would like to thank my cohort leads and classmates for always being willing and available to help me out when I hit a snag. I wouldn't have been able to comlete my project without them and am so thankful for the support community that Flatiron is able to provide to its students. 
