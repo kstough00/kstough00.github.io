@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My first SPA!"
-date:       2020-11-23 21:00:13 +0000
+date:       2020-11-23 16:00:14 -0500
 permalink:  my_first_spa
 ---
 
