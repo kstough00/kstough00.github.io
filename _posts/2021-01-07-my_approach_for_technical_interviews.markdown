@@ -1,0 +1,22 @@
+---
+layout: post
+title:      "My Approach for Technical Interviews"
+date:       2021-01-07 20:39:39 +0000
+permalink:  my_approach_for_technical_interviews
+---
+
+
+I wanted to write my final blog post on something I believe will make or break my success in the months to come as I enter my job search program after graduation, Technical Interviews. I want to map out my thought process and plan of attack in order to increase my chances of passing any technical interview question with flying colors.
+
+The first step I will take in approaching my technical interview is having a well worded and concise elevator pitch. Elevator pitches are important, especially for technical interviews, because the bulk of the time in the interview will be spent showing off your technical skillset. Additionally, if you are participating in a multi level interview you may not have the same interviewer for each interview, therefore it's nice to be able to give them a quick introduction to some of the best aspects you can offer as an employee.
+
+My next focus, and probably the most obvious task is to study. I need to think about the types of problems that company will encounter and work on problem solving for those same problems, using their specific languages and frameworks
+To build on studying and fine tuning my fundamental coding knowledge, it is extremely important to get hands on problem solving experience. I did some research and found a website, leetcode.com, which is a useful app that gives you technical code problems to solve as well as the solution if you get stuck.
+Once I have practiced my problem solving, it will be extremely helpful to study with a buddy. Most companies want to see the thought process behind your work and are less so focused on the solution you come to. This is why it helps to study with a buddy before your technical interviews. The concept of Joharis Window explains it perfectly, that our knowledge of ourselves can be broken down into four categories; the fourth, being the most important in many people's opinon, is the knowledge or information we do not ourselves know and do not know we dont know. This category represents each of our selve's blind spot. Having someone there with you to point out those blind spots in a constructive manner is immensly helpful. Hence the saying 'two minds are better than one'.
+Another key attribute the interviewer will look for is my ability to articulate my thought process, I will need to verbalize what I am thinking. Without verbalization the person conduction your technical interview will not be able to follow your thought process which is one of the most important aspects of a technical interview. The company wants to see how you work through problems and want to be sure you are able to verbalize your thought process because again, you will be working on a team most likely and being able to communicate effectively with your teammates is a key value to being a contributing role on any team.
+One of the last things I need to remember leading up to my interview is to relax. Often times I let my nerves get the best of me and hinder my interview performance. I must remember to be confident in my knowledge and ability to problem solve. Ive read that it also helps to do something that empowers you right before your interview. (e.g. power posing)
+Lastly, during the interview I need to simply stay positive. Another key aspect interviewers look for is the ability of the interviewee to remain calm, cool, and collected throughout the duration of the interview. Afterall, they will be testing my technical skillset, so while it may be easy to slip into frustration, they want me to show my ability to remain composed while working through something I may oir may not understand.
+
+
+I believe if I focus on fine tuning the combined attributes listed above, I will be able to pass any Technical Interview questions with flying colors. Researching this subject and reading testimonies from many successful software developers has ceratianly changed my mindset around the expectations of technical interviews and the focus of the interviewers behind the scenes. I am very please I chose to write my final blog post on this subject as it has been very helpful in paving the path I have before me in the coming weeks. I would again like to thank all of my classmates, friends, and family who have kept me motivated along this journey, I would not have made it this far without them!
+
